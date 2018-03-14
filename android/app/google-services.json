@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "335396175587",
+    "firebase_url": "https://lystudio-cq.firebaseio.com",
+    "project_id": "lystudio-cq",
+    "storage_bucket": "lystudio-cq.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:335396175587:android:3140915f0d7eae97",
+        "android_client_info": {
+          "package_name": "com.lystudio.cq"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "335396175587-bvb6qihhm91o0mli1ra3s028c2c6rlmb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lystudio.cq",
+            "certificate_hash": "d03027dac76e7849266960000870616af186602e"
+          }
+        },
+        {
+          "client_id": "335396175587-6ja86h11cjg45j7ht7co9u9nqqc2s1up.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuwinkGclCxS-oT3NyZx_21oGkaAh-LM0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "335396175587-6ja86h11cjg45j7ht7co9u9nqqc2s1up.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
